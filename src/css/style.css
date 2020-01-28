@@ -1,0 +1,155 @@
+
+
+body{
+	background-color: #1C1C1C;
+}
+
+p{
+	font-size : 18px;
+	padding-left: 20px;
+	color: #FA5858;
+	font-weight: bold;
+	padding-bottom: 22px;
+	padding-top: 18px;
+}
+
+p.theme{
+font-size : 40px;
+font-weight: bold;
+padding-top: 5px;
+padding-left: 500px;
+color: #FA5858;
+}
+
+nav.menu1 ul li.btnV{
+	display: inline-block;
+	list-style-type: none;
+}
+
+nav.menu1 ul li.btnV a{
+	color :#FA5858;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: white;
+    font-size : 20px;
+	padding: 15px;
+}
+
+nav.menu1 ul li.btnV:hover a{
+	color : white;
+	background-color: #FA5858;
+	transition: 0.4s all;
+}
+
+nav.menu1 ul li.btnE{
+	display: inline-block;
+	list-style-type: none;
+	padding-left: 50px;
+}
+
+nav.menu1 ul li.btnE a{
+	color :#FA5858;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: white;
+    font-size : 20px;
+	padding: 15px;
+}
+
+nav.menu1 ul li.btnE:hover a{
+	color : white;
+	background-color: #FA5858;
+	transition: 0.4s all;
+}
+
+nav.menu1 ul li.insta{
+	display: inline-block;
+	list-style-type: none;
+	padding-left: 830px;
+}
+
+nav.menu1 ul li.insta a{
+	color :#FA5858;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: white;
+    font-size : 15px;
+	padding: 15px;
+}
+
+nav.menu1 ul li.insta:hover a{
+	color : white;
+	background-color: #FA5858;
+	transition: 0.4s all;
+}
+
+nav.menu1 ul li.youtube{
+	display: inline-block;
+	list-style-type: none;
+}
+
+nav.menu1 ul li.youtube a{
+	color :#FA5858;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: white;
+    font-size : 15px;
+	padding: 15px;
+}
+
+nav.menu1 ul li.youtube:hover a{
+	color : white;
+	background-color: #FA5858;
+	transition: 0.4s all;
+}
+
+
+nav.menu1 ul li.autre{
+	display: inline-block;
+    list-style-type: none;
+}
+
+nav.menu1 ul li.autre a{
+	color :#FA5858;
+	background-color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size : 15px;
+	padding: 12px;
+}
+
+nav.menu1 ul li.autre:hover a{
+	color : white;
+	background-color: #FA5858;
+	transition: 0.4s all;
+}
+
+nav.contact ul li.btn{
+    list-style-type: none;
+}
+
+nav.contact ul li.btn a{
+	color :#FA5858;
+	background-color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size : 15px;
+    padding: 10px;
+
+}
+
+nav.contact ul li.btn:hover a{
+	color : white;
+	background-color: #FA5858;
+	transition: 0.4s all;
+}
+
+img{
+	padding-left: 2px;
+	padding-top: 35px;
+}
+
+iframe{
+	padding-left: 150px;
+
+}
